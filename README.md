@@ -31,7 +31,6 @@ To get started with Fulmine, follow these simple steps:
    ```
 6. Access the web application at `will be updateing it soon` in your web browser.
 7. Balance will be updated soon 
- To make graphs more attractive in your README file, you can use a markup language like Markdown to embed images of your graphs. Here's an example of how you can create a simple line chart using the Python library Matplotlib:
 
 
 
