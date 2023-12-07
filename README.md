@@ -1,4 +1,4 @@
-Sure! Here's an example of how you could rewrite your README file to make it more attractive:
+
 
 ```
 # Fulmine: Forecasting Energy Consumption Demand in Industries
