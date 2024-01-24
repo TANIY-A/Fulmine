@@ -26,8 +26,8 @@
 // App.js
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Login from './Login';
-import SignUp from './SignUp';
+import Login from './components/login';
+import SignUp from './components/SignUp';
 // import ForgetPassword from './ForgetPassword';
 
 function App() {
